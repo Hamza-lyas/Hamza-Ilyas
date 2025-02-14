@@ -18,4 +18,4 @@ I hope to expand my Java skillset with experiential projects.
   
 **Contact me**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-Hamzailyas)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-HamzaIlyas)
