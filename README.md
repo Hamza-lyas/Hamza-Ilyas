@@ -4,8 +4,11 @@ Hey Github community! My name is Hamza Ilyas and I am a computer science student
 My foundation in C++ programming and analytical thinking has equipped me with strong problem-solving abilities. I am currently expanding my skillset by learning **Java** a valuable language for object-oriented programming and developing robust software solutions. Learning the fundamentals and syntax of Java has provided me with insights into its extensive capabilities in multifaceted roles in the programming world. 
 I hope to expand my Java skillset with experiential projects.
 
-## Technology portfolio
+ 
 
+ ---
+ Technology portfolio
+---
 
 **Programming Languages:**
 
@@ -15,7 +18,10 @@ I hope to expand my Java skillset with experiential projects.
   
 **Programming Tools:**
 * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-**Contact me**
+
+   ---
+ Contact me:
+---
+ 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-HamzaIlyas)
