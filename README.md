@@ -35,3 +35,5 @@ My foundation in C++ programming and analytical thinking has equipped me with st
  
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Hamza-ilyas19)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:muhammadhamza20h06@gmail.com)
