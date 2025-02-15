@@ -31,6 +31,7 @@ My foundation in C++ programming and analytical thinking has equipped me with st
    ---
  Contact me:
 ---
+
  
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-HamzaIlyas)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-HamzaIlyas19)
