@@ -34,4 +34,4 @@ My foundation in C++ programming and analytical thinking has equipped me with st
 
  
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-HamzaIlyas19)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-Hamza-ilyas19)
